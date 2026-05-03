@@ -70,20 +70,9 @@ ML-DL-Algorithms/
 │   ├── cnn.ipynb
 │   ├── rnn.ipynb
 │   └── lstm_gru.ipynb
-│   └── IMDB_Dataset.csv
 │
 └── README.md
 ```
-
----
-
-## 📁 Dataset
-
-* **IMDB Dataset**
-  Used for sentiment analysis tasks in deep learning models.
-  Contains labeled movie reviews for binary classification (positive/negative).
-
----
 
 ## ⚙️ Tech Stack
 
